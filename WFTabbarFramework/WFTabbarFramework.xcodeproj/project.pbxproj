@@ -25,7 +25,6 @@
 /* Begin PBXFileReference section */
 		66D69D2E22F286C70034BA2B /* WFTabbarFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WFTabbarFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66D69D3122F286C70034BA2B /* WFTabbarFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WFTabbarFramework.h; sourceTree = "<group>"; };
-		66D69D3222F286C70034BA2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		66D69D3A22F290920034BA2B /* WFTabbarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFTabbarController.m; sourceTree = "<group>"; };
 		66D69D3B22F290920034BA2B /* WFNavgationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFNavgationViewController.m; sourceTree = "<group>"; };
 		66D69D3C22F290920034BA2B /* WFTabbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFTabbar.m; sourceTree = "<group>"; };
@@ -73,7 +72,6 @@
 				66D69D5322F292550034BA2B /* Resources */,
 				66D69D3922F290920034BA2B /* WFTabbar */,
 				66D69D3122F286C70034BA2B /* WFTabbarFramework.h */,
-				66D69D3222F286C70034BA2B /* Info.plist */,
 			);
 			path = WFTabbarFramework;
 			sourceTree = "<group>";
